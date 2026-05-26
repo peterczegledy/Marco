@@ -77,7 +77,7 @@ Example:
 | ho   | Hiri Motu |   |   |
 | hr   | Croatian |   |   |
 | ht   | Haitian Creole |   |   |
-| hu   | Hungarian |   |   |
+| hu   | Hungarian | ✔ | [peterczegledy](https://github.com/peterczegledy) |
 | hy   | Armenian |   |   |
 | hz   | Herero |   |   |
 | ia   | Interlingua |   |   |
